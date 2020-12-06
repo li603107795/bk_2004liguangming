@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "- 列表项\r   - 都是\r   - 萨达\r - 沙雕按时",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li603107795/bk_2004liguangming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li603107795/bk_2004liguangming/issues"
+  },
+  "homepage": "https://github.com/li603107795/bk_2004liguangming#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
